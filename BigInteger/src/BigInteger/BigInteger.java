@@ -3,12 +3,6 @@ package BigInteger;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-/**  CSD 436 - Assignment 1
- *   Iterative Algorithms
- *   Andrea Simental
- *
- *
- */
 
 
 
