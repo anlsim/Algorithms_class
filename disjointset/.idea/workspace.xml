@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f3101d1-9733-4a64-91c8-2bbb08852133" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pB0HDnNz3fBznquHXDS3Px3OGZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/disjointset" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="disjointset.UsingKruskalsAlgorithm" />
+      <module name="disjointset" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3101d1-9733-4a64-91c8-2bbb08852133" name="Default Changelist" comment="" />
+      <created>1614641088213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614641088213</updated>
+      <workItem from="1614641090068" duration="356000" />
+      <workItem from="1614719244158" duration="4906000" />
+      <workItem from="1614977485088" duration="1831000" />
+      <workItem from="1615071957838" duration="15150000" />
+      <workItem from="1615930540048" duration="311000" />
+      <workItem from="1616003232338" duration="3509000" />
+      <workItem from="1616104849595" duration="6000" />
+      <workItem from="1616106223820" duration="4756000" />
+      <workItem from="1616270854747" duration="6000" />
+      <workItem from="1616896705928" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="231" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614719393828">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="360" y="231" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614719393828" />
+    <state x="709" y="283" key="#com.intellij.ide.util.MemberChooser" timestamp="1615094523527">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="709" y="283" key="#com.intellij.ide.util.MemberChooser/1792.116.1920.1055/-1920.-260.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1615094523527" />
+    <state x="633" y="378" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1614719390136">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="633" y="378" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614719390136" />
+    <state width="1740" height="287" key="GridCell.Tab.0.bottom" timestamp="1616896877639">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="370" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614719400152" />
+    <state width="1750" height="301" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1614731507913" />
+    <state width="1740" height="287" key="GridCell.Tab.0.bottom/1792.116.1920.1055/-1920.-260.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1616896877639" />
+    <state width="1740" height="287" key="GridCell.Tab.0.center" timestamp="1616896877638">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="370" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614719400152" />
+    <state width="1750" height="301" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1614731507912" />
+    <state width="1740" height="287" key="GridCell.Tab.0.center/1792.116.1920.1055/-1920.-260.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1616896877638" />
+    <state width="1740" height="287" key="GridCell.Tab.0.left" timestamp="1616896877638">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="370" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614719400152" />
+    <state width="1750" height="301" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1614731507912" />
+    <state width="1740" height="287" key="GridCell.Tab.0.left/1792.116.1920.1055/-1920.-260.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1616896877638" />
+    <state width="1740" height="287" key="GridCell.Tab.0.right" timestamp="1616896877638">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="370" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614719400152" />
+    <state width="1750" height="301" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1614731507913" />
+    <state width="1740" height="287" key="GridCell.Tab.0.right/1792.116.1920.1055/-1920.-260.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1616896877638" />
+    <state width="1750" height="370" key="GridCell.Tab.1.bottom" timestamp="1615096249481">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="370" key="GridCell.Tab.1.bottom/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614719400153" />
+    <state width="1750" height="370" key="GridCell.Tab.1.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1614731507882" />
+    <state width="1750" height="370" key="GridCell.Tab.1.bottom/1792.116.1920.1055/-1920.-260.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1615096249481" />
+    <state width="1750" height="370" key="GridCell.Tab.1.center" timestamp="1615096249480">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="370" key="GridCell.Tab.1.center/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614719400153" />
+    <state width="1750" height="370" key="GridCell.Tab.1.center/0.25.1792.1095@0.25.1792.1095" timestamp="1614731507881" />
+    <state width="1750" height="370" key="GridCell.Tab.1.center/1792.116.1920.1055/-1920.-260.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1615096249480" />
+    <state width="1750" height="370" key="GridCell.Tab.1.left" timestamp="1615096249480">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="370" key="GridCell.Tab.1.left/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614719400153" />
+    <state width="1750" height="370" key="GridCell.Tab.1.left/0.25.1792.1095@0.25.1792.1095" timestamp="1614731507881" />
+    <state width="1750" height="370" key="GridCell.Tab.1.left/1792.116.1920.1055/-1920.-260.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1615096249480" />
+    <state width="1750" height="370" key="GridCell.Tab.1.right" timestamp="1615096249480">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="370" key="GridCell.Tab.1.right/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614719400153" />
+    <state width="1750" height="370" key="GridCell.Tab.1.right/0.25.1792.1095@0.25.1792.1095" timestamp="1614731507881" />
+    <state width="1750" height="370" key="GridCell.Tab.1.right/1792.116.1920.1055/-1920.-260.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1615096249480" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/disjointset/MstAlgorithms.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/disjointset/MstAlgorithms.java</url>
+          <line>28</line>
+          <properties class="disjointset.MstAlgorithms" method="Kruskals">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
