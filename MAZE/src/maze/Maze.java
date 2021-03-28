@@ -28,6 +28,29 @@ public class Maze {
         buildHorizontalWalls();
     }
 
+    public Maze() {
+        cellWidth = cellHeight = (CanvasHeight-2 * CanvasMargin) / height;
+        buildMazeGrid();
+        buildVerticalWalls();
+        buildHorizontalWalls();
+    }
+
+    //GETTERS for MAZE CLASS
+    public int getCanvasHeight() { return CanvasHeight; }
+
+    public int getCanvasMargin() { return CanvasMargin; }
+
+    public int getCanvasWidth() { return CanvasWidth; }
+
+    public int getCellHeight() { return cellHeight; }
+
+    public int getCellWidth() { return cellWidth; }
+
+    public int getHeight() { return height; }
+
+
+
+
     //Method to build Maze Grid
     public void buildMazeGrid (){
         int id = 0;
@@ -80,6 +103,7 @@ public class Maze {
 
 
     }
+
 
 }
 
