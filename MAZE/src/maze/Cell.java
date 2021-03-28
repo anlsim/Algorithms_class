@@ -11,4 +11,9 @@ public class Cell {
         return id;
     }
 
+    @Override
+    public boolean equals(Object o) {
+        return super.equals(o);
+    }
+
 }
