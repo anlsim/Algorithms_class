@@ -6,11 +6,6 @@ import java.util.List;
 import javax.swing.*;
 
 public class Maze {
-    private int cellHeight;
-    private int cellWidth;
-    final private int CanvasMargin = 100;
-    final private int CanvasWidth = 1000;
-    final private int CanvasHeight = 850;
 
     public Cell[][] gridMaze;
     private int width;
@@ -22,33 +17,10 @@ public class Maze {
     public Maze(int width, int height) {
         this.width = width;
         this.height = height;
-        cellWidth = cellHeight = (CanvasHeight-2 * CanvasMargin) / height;
         buildMazeGrid();
         buildVerticalWalls();
         buildHorizontalWalls();
     }
-
-    public Maze() {
-        cellWidth = cellHeight = (CanvasHeight-2 * CanvasMargin) / height;
-        buildMazeGrid();
-        buildVerticalWalls();
-        buildHorizontalWalls();
-    }
-
-    //GETTERS for MAZE CLASS
-    public int getCanvasHeight() { return CanvasHeight; }
-
-    public int getCanvasMargin() { return CanvasMargin; }
-
-    public int getCanvasWidth() { return CanvasWidth; }
-
-    public int getCellHeight() { return cellHeight; }
-
-    public int getCellWidth() { return cellWidth; }
-
-    public int getHeight() { return height; }
-
-
 
 
     //Method to build Maze Grid
@@ -61,7 +33,6 @@ public class Maze {
                 id++;
             }
         }
-
     }
 
     //Method to build Vertical walls
@@ -80,13 +51,12 @@ public class Maze {
                 walls.add(new Wall(gridMaze[j][i], gridMaze[j][i+1],  true));
             }
         }
-
     }
 
 
     // Used pseudo code in the following link to implement this method.
     //https://en.wikipedia.org/wiki/Maze_generation_algorithm
-    public void decimateWalls( int beyond ) {
+    public void decimateWalls() {
         disjointSet = new DisjointSet(walls.size());
         List<Wall> sortingList = new ArrayList<>(walls);
         Collections.shuffle(sortingList);
@@ -99,9 +69,14 @@ public class Maze {
                 walls.remove(c);
             }
         }
+    }
 
-
-
+    public void drawWalls() {
+        JFrame window = new JFrame();
+        window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        window.setBounds(100, 100, 900, 750);
+        window.getContentPane().add(new MazeCanvas(this.width, this.height, this.walls));
+        window.setVisible(true);
     }
 
 
